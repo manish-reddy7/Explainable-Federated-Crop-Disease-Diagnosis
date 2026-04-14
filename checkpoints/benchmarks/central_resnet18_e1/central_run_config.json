@@ -1,0 +1,13 @@
+{
+  "model_name": "resnet18",
+  "seed": 42,
+  "epochs": 1,
+  "batch_size": 32,
+  "lr": 0.001,
+  "image_size": 160,
+  "num_workers": 0,
+  "pretrained": true,
+  "data_dir": "c:/Users/manis/Downloads/xai.2/archive (4)/PlantVillage/train",
+  "parent_dir": "",
+  "val_dir": ""
+}

@@ -1,0 +1,9 @@
+{
+  "checkpoint": "c:\\Users\\manis\\Downloads\\xai.2\\XFedCrop\\checkpoints\\central_resnet18_best.pt",
+  "val_dir": "c:\\Users\\manis\\Downloads\\xai.2\\archive (4)\\PlantVillage\\val",
+  "num_samples": 10861,
+  "loss": 0.035769201813020256,
+  "accuracy": 0.9884909308535126,
+  "macro_f1": 0.9850417013317998,
+  "weighted_f1": 0.9884723653234471
+}

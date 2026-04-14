@@ -1,0 +1,2 @@
+run,type,model_name,alpha,proximal_mu,clients,rounds,local_epochs,accuracy,macro_f1,weighted_f1,ece,brier,nll
+central_resnet18_e1,centralized,resnet18,-,-,-,-,-,0.8846331333640979,0.8544065330836403,0.8817842103259258,0.04140730575128182,0.16802782483257414,0.3497253994702852
